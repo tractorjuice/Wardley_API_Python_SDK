@@ -10,8 +10,8 @@
 
 from setuptools import setup, find_packages  # noqa: H301
 
-NAME = "openapi-client"
-VERSION = "1.0.0"
+NAME = "Wardley_API_Python_SDK"
+VERSION = "0.3.0"
 # To install the library, run the following
 #
 # python setup.py install
@@ -28,8 +28,8 @@ setup(
     name=NAME,
     version=VERSION,
     description="Wardley Mapping Crew API",
-    author="OpenAPI Generator community",
-    author_email="team@openapitools.org",
+    author="TractorJuice",
+    author_email="support@wardleymaps.ai",
     url="",
     keywords=["OpenAPI", "OpenAPI-Generator", "Wardley Mapping Crew API"],
     python_requires=">=3.6",
